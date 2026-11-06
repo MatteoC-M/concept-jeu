@@ -1,20 +1,20 @@
-# Titre du jeu
+# On TIMe
 
 Projet conçu en équipe avec : Matteo, PK
 ## Le public cible
 
 - Type de joueur visé (fonceur ou explorateur) : fonceur
-- Catégorie et genre : M
-- Le concept en une phrase (un personnage, un objectif, un obstacle) : ...
+- Catégorie et genre : rogue like/ action
+- Le concept en une phrase (un personnage, un objectif, un obstacle) : Tu dois réussir à te rendre à ton cours à temps
 
 ## Les mécaniques
 
-- Objectif du jeu : ...
-- Condition de victoire : ...
-- Condition de défaite : ...
-- Mécanique cœur : ...
-- Mécanique secondaire : ...
-- Structure (progressif ou émergent, expliquez en quelques mots) : ...
+- Objectif du jeu : te rendre à ton cours à temps
+- Condition de victoire : Tu te rend à temps à ton cours
+- Condition de défaite : Tu n'arrive pas à temps
+- Mécanique cœur : se déplacer dans les coridors
+- Mécanique secondaire : moins de temps et plus dur
+- Structure (progressif ou émergent, expliquez en quelques mots) : tu dois passer à travers des vague/mur d'étudians
 - Prototype Scratch (facultatif) : [lien du projet](lien)
 
 ## Les phases de jeu
